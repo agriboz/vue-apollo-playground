@@ -1,0 +1,9 @@
+{
+  allPosts {
+    id
+    imageUrl
+    description
+    createdAt
+    updatedAt
+  }
+}
